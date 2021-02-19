@@ -1,6 +1,6 @@
 # LeMinhQuan.github.io
 #about me:
-##I'm a student of [UIT](https://www.uit.edu.vn/)(University of Infomation Technology)
+<br />I'm a student of [UIT](https://www.uit.edu.vn/)(University of Infomation Technology)
 ###Date of birth: 14-10-2002
 ####Gender: Male
 #####Location: HCM city, VietNam
